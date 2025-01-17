@@ -6,3 +6,9 @@
 
 ## 스플라인 보간법
 전체 구간을 소구간별로 나누어 저차수의 다항식으로 매끄러운 함수를 구하는 방법이다.
+
+<br>
+
+## UI
+![image](https://github.com/user-attachments/assets/9a0ea1f3-1110-41bb-b7f5-b07dbf74b8f2)
+![image](https://github.com/user-attachments/assets/b81d3758-5f21-45bf-ac69-14c7d9d67abf)
