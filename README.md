@@ -10,6 +10,6 @@
 <br>
 
 ## UI
-- react로 구현
+- react로 구현 <br>
 ![image](https://github.com/user-attachments/assets/9a0ea1f3-1110-41bb-b7f5-b07dbf74b8f2)
 ![image](https://github.com/user-attachments/assets/b81d3758-5f21-45bf-ac69-14c7d9d67abf)
